@@ -1,2 +1,3 @@
 # ApiCatalogoJogos
-Este projeto foi desenvolvido para exemplificar a estrutura de uma API Rest. Ela será utilizada para auxiliar a live que apresentarei na DIO.
+Estrutura de uma API Rest. 
+2021 - Incompleto
